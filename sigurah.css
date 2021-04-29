@@ -191,7 +191,7 @@ template {
 [class*="col-"] {
   width: 100%;
   display: flex;
-  padding-left: 15px;
+  padding-left: 15px;008a19
   padding-right: 15px;
 }
 .col-xs-1\/8 {
@@ -1512,14 +1512,14 @@ h6 {
 }
 @media screen and (max-width: 767px) {
 }
-/*Section*/
+/*Section WARNA*/
 .dorik-section-m2sj692a {
   padding-top: 8%;
 
   background-image: linear-gradient(
     52deg,
     rgba(229, 85, 201, 0.98) 0%,
-    #008a19 69%
+    #3deb34 69%
   );
   background-size: cover;
   background-position: center;
